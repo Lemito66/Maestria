@@ -13,6 +13,7 @@ pip install virtualenv
 ```
 python -m venv <nombre_carpeta> 
 ```
+- Verificar siempre que en tu terminal estes utilizando el entorno virtual. Puedes asegurarte de aquello presionando las teclas control + shift + p y seleccionar el interprete de venv
 - Descargar todas las librerias del archivo requirements.txt
 
 ```
