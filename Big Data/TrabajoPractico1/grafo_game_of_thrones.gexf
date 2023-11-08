@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-08">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Eddard &quot;Ned&quot; Stark" label="Eddard &quot;Ned&quot; Stark">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="I, Eddard of the house Stark, lord of Winterfell and warden of the North, sentence you to die." label="I, Eddard of the house Stark, lord of Winterfell and warden of the North, sentence you to die.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tyrion Lannister" label="Tyrion Lannister">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="I'm a constant disappointment to my own father, and I have learned to live with it." label="I'm a constant disappointment to my own father, and I have learned to live with it.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Catelyn Stark" label="Catelyn Stark">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="All this horror that has come to my family, it's all because I couldn't love a motherless child." label="All this horror that has come to my family, it's all because I couldn't love a motherless child.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jon Snow" label="Jon Snow">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Love is the death of duty." label="Love is the death of duty.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cersei Lannister" label="Cersei Lannister">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="The more people you love, the weaker you are." label="The more people you love, the weaker you are.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Petyr Baelish" label="Petyr Baelish">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Chaos isn't a pit. Chaos is a ladder." label="Chaos isn't a pit. Chaos is a ladder.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jaime Lannister" label="Jaime Lannister">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="There are no men like me. Only me." label="There are no men like me. Only me.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="There is only one war that matters. The Great War. And it is here." label="There is only one war that matters. The Great War. And it is here.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Aemon Targaryen" label="Aemon Targaryen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy." label="We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A madman sees what he sees." label="A madman sees what he sees.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="It doesn’t matter what we want. Once we get it, then we want something else." label="It doesn’t matter what we want. Once we get it, then we want something else.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I don't choose sides. I'm the queen of the Seven Kingdoms." label="I don't choose sides. I'm the queen of the Seven Kingdoms.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I don't care about checking my worst impulses. I don't care about making the world a better place. Hang the world." label="I don't care about checking my worst impulses. I don't care about making the world a better place. Hang the world.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The only way to keep your people loyal is to make certain they fear you more than they do the enemy." label="The only way to keep your people loyal is to make certain they fear you more than they do the enemy.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bran Stark" label="Bran Stark">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="We don't have time for all this. The Night King has your dragon. He's one of them now. The Wall has fallen. The dead march south." label="We don't have time for all this. The Night King has your dragon. He's one of them now. The Wall has fallen. The dead march south.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I grew up with soldiers. I learned how to die a long time ago." label="I grew up with soldiers. I learned how to die a long time ago.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I have a lot of experience in losing." label="I have a lot of experience in losing.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Arya Stark" label="Arya Stark">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Leave one wolf alive and the sheep are never safe." label="Leave one wolf alive and the sheep are never safe.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Winter is coming!" label="Winter is coming!">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tywin Lannister" label="Tywin Lannister">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Every day that he remains a prisoner, the less our name commands respect." label="Every day that he remains a prisoner, the less our name commands respect.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Many underestimated you. Most of them are dead now." label="Many underestimated you. Most of them are dead now.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The war is not over. And I promise you, friend, the true enemy won't wait out the storm. He brings the storm." label="The war is not over. And I promise you, friend, the true enemy won't wait out the storm. He brings the storm.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="If I fall, don't bring me back." label="If I fall, don't bring me back.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sansa Stark" label="Sansa Stark">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="I hate the king more than any of them." label="I hate the king more than any of them.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A lion does not concern himself with the opinion of sheep." label="A lion does not concern himself with the opinion of sheep.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="It's not easy being drunk all the time. Everyone would do it, if it were easy." label="It's not easy being drunk all the time. Everyone would do it, if it were easy.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lord Varys" label="Lord Varys">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="The storms come and go, the big fish eat the little fish and I keep on paddling." label="The storms come and go, the big fish eat the little fish and I keep on paddling.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I know that our enemies hate each other almost as much as they hate us." label="I know that our enemies hate each other almost as much as they hate us.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I am your son. I have always been your son." label="I am your son. I have always been your son.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="No need to seize the last word, Lord Baelish. I'll assume it was something clever." label="No need to seize the last word, Lord Baelish. I'll assume it was something clever.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Olenna Tyrell" label="Olenna Tyrell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="The world is overflowing with horrible things, but they’re all a tray of cakes next to death." label="The world is overflowing with horrible things, but they’re all a tray of cakes next to death.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="That bit of theatre will haunt our family for a generation." label="That bit of theatre will haunt our family for a generation.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth." label="The day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Everything before the word &quot;but&quot; is horseshit." label="Everything before the word &quot;but&quot; is horseshit.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say" label="When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joffrey Baratheon" label="Joffrey Baratheon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Everyone is mine to torment." label="Everyone is mine to torment.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Theon Greyjoy" label="Theon Greyjoy">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="My sword is yours, in victory and defeat, from this day until my last day." label="My sword is yours, in victory and defeat, from this day until my last day.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="When the snows fall and the white winds blow, the lone wolf dies but the pack survives" label="When the snows fall and the white winds blow, the lone wolf dies but the pack survives">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Daenerys Targaryen" label="Daenerys Targaryen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="He was no dragon. Fire cannot kill a dragon." label="He was no dragon. Fire cannot kill a dragon.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Love is more powerful than reason. We all know that." label="Love is more powerful than reason. We all know that.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="By what right does the wolf judge the lion?" label="By what right does the wolf judge the lion?">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="You love your children. It's why you'll never win." label="You love your children. It's why you'll never win.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I want our baby to live. Don't let me die, Jaime. Please don't let me die." label="I want our baby to live. Don't let me die, Jaime. Please don't let me die.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fear cuts deeper than swords." label="Fear cuts deeper than swords.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A Lannister always pays his debts." label="A Lannister always pays his debts.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Baratheon" label="Robert Baratheon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="I'm the King, I get what I want. I never loved my brothers. Sad thing for a man to admit, but it's true. You were the brother I chose." label="I'm the King, I get what I want. I never loved my brothers. Sad thing for a man to admit, but it's true. You were the brother I chose.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ramsay Bolton" label="Ramsay Bolton">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="If you think this has a happy ending, you haven't been paying attention." label="If you think this has a happy ending, you haven't been paying attention.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Power resides where men believe it resides. It's a trick, a shadow on the wall. And a very small man can cast a very large shadow." label="Power resides where men believe it resides. It's a trick, a shadow on the wall. And a very small man can cast a very large shadow.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Melisandre" label="Melisandre">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="The night is dark and full of terrors." label="The night is dark and full of terrors.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Everyone who makes a joke about a dwarf's height thinks he's the only person ever to make a joke about a dwarf's height." label="Everyone who makes a joke about a dwarf's height thinks he's the only person ever to make a joke about a dwarf's height.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I was told you were drunk, impertinent and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookkeeper." label="I was told you were drunk, impertinent and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookkeeper.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="No matter who you are, no matter how strong you are, sooner or later, you'll face circumstances beyond your control." label="No matter who you are, no matter how strong you are, sooner or later, you'll face circumstances beyond your control.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?" label="Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love." label="The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="All men must die, but we are not men." label="All men must die, but we are not men.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I am a Stark of Winterfell, this is my home. And you can't frighten me." label="I am a Stark of Winterfell, this is my home. And you can't frighten me.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you." label="Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="People often claim to hunger for truth, but seldom like the taste when it's served up." label="People often claim to hunger for truth, but seldom like the taste when it's served up.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Well, my brother has his sword, and I have my mind, and a mind needs books like a sword needs a whetstone, if it's to keep its edge." label="Well, my brother has his sword, and I have my mind, and a mind needs books like a sword needs a whetstone, if it's to keep its edge.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brienne of Tharth" label="Brienne of Tharth">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="All I ever wanted was to fight for a lord I believed in. But the good lords are dead and the rest are monsters." label="All I ever wanted was to fight for a lord I believed in. But the good lords are dead and the rest are monsters.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="It's better to be cruel than weak." label="It's better to be cruel than weak.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The things I do for love." label="The things I do for love.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A man with no motive is a man no one suspects. Always keep your foes confused." label="A man with no motive is a man no one suspects. Always keep your foes confused.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="When you play the game of thrones, you win or you die. There is no middle ground." label="When you play the game of thrones, you win or you die. There is no middle ground.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="It doesn't matter what we want. Once we get it, then we want something else." label="It doesn't matter what we want. Once we get it, then we want something else.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Samwell Tarly" label="Samwell Tarly">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="I was nothing at all. And when you're nothing at all, there's no reason to be afraid." label="I was nothing at all. And when you're nothing at all, there's no reason to be afraid.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nothing isn't better or worse than anything. Nothing is just nothing." label="Nothing isn't better or worse than anything. Nothing is just nothing.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tears aren't a woman's only weapon. The best one's between your legs." label="Tears aren't a woman's only weapon. The best one's between your legs.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Can a man still be brave if he's afraid? That is the only time a man can be brave." label="Can a man still be brave if he's afraid? That is the only time a man can be brave.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Three victories don't make you a conqueror." label="Three victories don't make you a conqueror.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I am the dragon's daughter, and I swear to you that those who would harm you will die screaming." label="I am the dragon's daughter, and I swear to you that those who would harm you will die screaming.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tormund" label="Tormund">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gingers are beautiful. We've been kissed by fire." label="Gingers are beautiful. We've been kissed by fire.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Death is so terribly final, while life is full of possibilities." label="Death is so terribly final, while life is full of possibilities.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Aerys II Targaryen" label="Aerys II Targaryen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Burn them all!" label="Burn them all!">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="If you want a whore, buy one. If you want a Queen, earn her." label="If you want a whore, buy one. If you want a Queen, earn her.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fighting bravely for a losing cause is admirable. Fighting for a winning cause is far more rewarding." label="Fighting bravely for a losing cause is admirable. Fighting for a winning cause is far more rewarding.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="The man who passes the sentence should swing the sword." label="The man who passes the sentence should swing the sword.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A ruler who kills those devoted to her is not a ruler who inspires devotion." label="A ruler who kills those devoted to her is not a ruler who inspires devotion.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I'm guilty of being a dwarf." label="I'm guilty of being a dwarf.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey." label="When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I need you to become the man you were always meant to be. Not next year, not tomorrow, now." label="I need you to become the man you were always meant to be. Not next year, not tomorrow, now.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Laughter is poison to fear." label="Laughter is poison to fear.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="That's what I do: I drink and I know things." label="That's what I do: I drink and I know things.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ygritte" label="Ygritte">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Every man must die, Jon Snow. but first, he must live" label="Every man must die, Jon Snow. but first, he must live">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Any man who must say 'I am the King' is no true King." label="Any man who must say 'I am the King' is no true King.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I have a tender spot in my heart for cripples, bastards and broken things." label="I have a tender spot in my heart for cripples, bastards and broken things.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mance Rayder" label="Mance Rayder">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="The freedom to make my own mistakes was all I ever wanted." label="The freedom to make my own mistakes was all I ever wanted.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="I have always found revenge to be the purest of motivations." label="I have always found revenge to be the purest of motivations.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="You love your children. It's your one redeeming quality. That and your cheekbones." label="You love your children. It's your one redeeming quality. That and your cheekbones.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Never forget what you are. The rest of the world will not. Wear it like armour, and it can never be used to hurt you." label="Never forget what you are. The rest of the world will not. Wear it like armour, and it can never be used to hurt you.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="You know nothing, Jon Snow." label="You know nothing, Jon Snow.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A ruler who hides behind paid executioners soon forgets what death is." label="A ruler who hides behind paid executioners soon forgets what death is.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="If you ever call me sister again, I'll have you strangled in your sleep." label="If you ever call me sister again, I'll have you strangled in your sleep.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Eddard &quot;Ned&quot; Stark" target="I, Eddard of the house Stark, lord of Winterfell and warden of the North, sentence you to die." id="0" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="A madman sees what he sees." id="1" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="I grew up with soldiers. I learned how to die a long time ago." id="2" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="Winter is coming!" id="3" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="When the snows fall and the white winds blow, the lone wolf dies but the pack survives" id="4" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="The man who passes the sentence should swing the sword." id="5" />
+      <edge source="Eddard &quot;Ned&quot; Stark" target="A ruler who hides behind paid executioners soon forgets what death is." id="6" />
+      <edge source="Tyrion Lannister" target="I'm a constant disappointment to my own father, and I have learned to live with it." id="7" />
+      <edge source="Tyrion Lannister" target="I have a lot of experience in losing." id="8" />
+      <edge source="Tyrion Lannister" target="Many underestimated you. Most of them are dead now." id="9" />
+      <edge source="Tyrion Lannister" target="It's not easy being drunk all the time. Everyone would do it, if it were easy." id="10" />
+      <edge source="Tyrion Lannister" target="I know that our enemies hate each other almost as much as they hate us." id="11" />
+      <edge source="Tyrion Lannister" target="I am your son. I have always been your son." id="12" />
+      <edge source="Tyrion Lannister" target="That bit of theatre will haunt our family for a generation." id="13" />
+      <edge source="Tyrion Lannister" target="The day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth." id="14" />
+      <edge source="Tyrion Lannister" target="When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say" id="15" />
+      <edge source="Tyrion Lannister" target="Love is more powerful than reason. We all know that." id="16" />
+      <edge source="Tyrion Lannister" target="A Lannister always pays his debts." id="17" />
+      <edge source="Tyrion Lannister" target="Everyone who makes a joke about a dwarf's height thinks he's the only person ever to make a joke about a dwarf's height." id="18" />
+      <edge source="Tyrion Lannister" target="No matter who you are, no matter how strong you are, sooner or later, you'll face circumstances beyond your control." id="19" />
+      <edge source="Tyrion Lannister" target="Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?" id="20" />
+      <edge source="Tyrion Lannister" target="Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you." id="21" />
+      <edge source="Tyrion Lannister" target="People often claim to hunger for truth, but seldom like the taste when it's served up." id="22" />
+      <edge source="Tyrion Lannister" target="Well, my brother has his sword, and I have my mind, and a mind needs books like a sword needs a whetstone, if it's to keep its edge." id="23" />
+      <edge source="Tyrion Lannister" target="Death is so terribly final, while life is full of possibilities." id="24" />
+      <edge source="Tyrion Lannister" target="A ruler who kills those devoted to her is not a ruler who inspires devotion." id="25" />
+      <edge source="Tyrion Lannister" target="I'm guilty of being a dwarf." id="26" />
+      <edge source="Tyrion Lannister" target="That's what I do: I drink and I know things." id="27" />
+      <edge source="Tyrion Lannister" target="I have a tender spot in my heart for cripples, bastards and broken things." id="28" />
+      <edge source="Tyrion Lannister" target="You love your children. It's your one redeeming quality. That and your cheekbones." id="29" />
+      <edge source="Tyrion Lannister" target="Never forget what you are. The rest of the world will not. Wear it like armour, and it can never be used to hurt you." id="30" />
+      <edge source="Catelyn Stark" target="All this horror that has come to my family, it's all because I couldn't love a motherless child." id="31" />
+      <edge source="Catelyn Stark" target="Laughter is poison to fear." id="32" />
+      <edge source="Jon Snow" target="Love is the death of duty." id="33" />
+      <edge source="Jon Snow" target="There is only one war that matters. The Great War. And it is here." id="34" />
+      <edge source="Jon Snow" target="The war is not over. And I promise you, friend, the true enemy won't wait out the storm. He brings the storm." id="35" />
+      <edge source="Jon Snow" target="If I fall, don't bring me back." id="36" />
+      <edge source="Jon Snow" target="Everything before the word &quot;but&quot; is horseshit." id="37" />
+      <edge source="Cersei Lannister" target="The more people you love, the weaker you are." id="38" />
+      <edge source="Cersei Lannister" target="I don't choose sides. I'm the queen of the Seven Kingdoms." id="39" />
+      <edge source="Cersei Lannister" target="I don't care about checking my worst impulses. I don't care about making the world a better place. Hang the world." id="40" />
+      <edge source="Cersei Lannister" target="The only way to keep your people loyal is to make certain they fear you more than they do the enemy." id="41" />
+      <edge source="Cersei Lannister" target="You love your children. It's why you'll never win." id="42" />
+      <edge source="Cersei Lannister" target="I want our baby to live. Don't let me die, Jaime. Please don't let me die." id="43" />
+      <edge source="Cersei Lannister" target="When you play the game of thrones, you win or you die. There is no middle ground." id="44" />
+      <edge source="Cersei Lannister" target="Tears aren't a woman's only weapon. The best one's between your legs." id="45" />
+      <edge source="Cersei Lannister" target="If you want a whore, buy one. If you want a Queen, earn her." id="46" />
+      <edge source="Cersei Lannister" target="If you ever call me sister again, I'll have you strangled in your sleep." id="47" />
+      <edge source="Petyr Baelish" target="Chaos isn't a pit. Chaos is a ladder." id="48" />
+      <edge source="Petyr Baelish" target="It doesn’t matter what we want. Once we get it, then we want something else." id="49" />
+      <edge source="Petyr Baelish" target="The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love." id="50" />
+      <edge source="Petyr Baelish" target="A man with no motive is a man no one suspects. Always keep your foes confused." id="51" />
+      <edge source="Petyr Baelish" target="It doesn't matter what we want. Once we get it, then we want something else." id="52" />
+      <edge source="Petyr Baelish" target="I have always found revenge to be the purest of motivations." id="53" />
+      <edge source="Jaime Lannister" target="There are no men like me. Only me." id="54" />
+      <edge source="Jaime Lannister" target="By what right does the wolf judge the lion?" id="55" />
+      <edge source="Jaime Lannister" target="The things I do for love." id="56" />
+      <edge source="Jaime Lannister" target="Three victories don't make you a conqueror." id="57" />
+      <edge source="Jaime Lannister" target="Fighting bravely for a losing cause is admirable. Fighting for a winning cause is far more rewarding." id="58" />
+      <edge source="Aemon Targaryen" target="We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy." id="59" />
+      <edge source="Bran Stark" target="We don't have time for all this. The Night King has your dragon. He's one of them now. The Wall has fallen. The dead march south." id="60" />
+      <edge source="Bran Stark" target="Can a man still be brave if he's afraid? That is the only time a man can be brave." id="61" />
+      <edge source="Arya Stark" target="Leave one wolf alive and the sheep are never safe." id="62" />
+      <edge source="Arya Stark" target="Fear cuts deeper than swords." id="63" />
+      <edge source="Arya Stark" target="Nothing isn't better or worse than anything. Nothing is just nothing." id="64" />
+      <edge source="Arya Stark" target="When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey." id="65" />
+      <edge source="Tywin Lannister" target="Every day that he remains a prisoner, the less our name commands respect." id="66" />
+      <edge source="Tywin Lannister" target="A lion does not concern himself with the opinion of sheep." id="67" />
+      <edge source="Tywin Lannister" target="I need you to become the man you were always meant to be. Not next year, not tomorrow, now." id="68" />
+      <edge source="Tywin Lannister" target="Any man who must say 'I am the King' is no true King." id="69" />
+      <edge source="Sansa Stark" target="I hate the king more than any of them." id="70" />
+      <edge source="Sansa Stark" target="No need to seize the last word, Lord Baelish. I'll assume it was something clever." id="71" />
+      <edge source="Sansa Stark" target="I am a Stark of Winterfell, this is my home. And you can't frighten me." id="72" />
+      <edge source="Lord Varys" target="The storms come and go, the big fish eat the little fish and I keep on paddling." id="73" />
+      <edge source="Lord Varys" target="Power resides where men believe it resides. It's a trick, a shadow on the wall. And a very small man can cast a very large shadow." id="74" />
+      <edge source="Olenna Tyrell" target="The world is overflowing with horrible things, but they’re all a tray of cakes next to death." id="75" />
+      <edge source="Olenna Tyrell" target="I was told you were drunk, impertinent and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookkeeper." id="76" />
+      <edge source="Joffrey Baratheon" target="Everyone is mine to torment." id="77" />
+      <edge source="Theon Greyjoy" target="My sword is yours, in victory and defeat, from this day until my last day." id="78" />
+      <edge source="Theon Greyjoy" target="It's better to be cruel than weak." id="79" />
+      <edge source="Daenerys Targaryen" target="He was no dragon. Fire cannot kill a dragon." id="80" />
+      <edge source="Daenerys Targaryen" target="All men must die, but we are not men." id="81" />
+      <edge source="Daenerys Targaryen" target="I am the dragon's daughter, and I swear to you that those who would harm you will die screaming." id="82" />
+      <edge source="Robert Baratheon" target="I'm the King, I get what I want. I never loved my brothers. Sad thing for a man to admit, but it's true. You were the brother I chose." id="83" />
+      <edge source="Ramsay Bolton" target="If you think this has a happy ending, you haven't been paying attention." id="84" />
+      <edge source="Melisandre" target="The night is dark and full of terrors." id="85" />
+      <edge source="Brienne of Tharth" target="All I ever wanted was to fight for a lord I believed in. But the good lords are dead and the rest are monsters." id="86" />
+      <edge source="Samwell Tarly" target="I was nothing at all. And when you're nothing at all, there's no reason to be afraid." id="87" />
+      <edge source="Tormund" target="Gingers are beautiful. We've been kissed by fire." id="88" />
+      <edge source="Aerys II Targaryen" target="Burn them all!" id="89" />
+      <edge source="Ygritte" target="Every man must die, Jon Snow. but first, he must live" id="90" />
+      <edge source="Ygritte" target="You know nothing, Jon Snow." id="91" />
+      <edge source="Mance Rayder" target="The freedom to make my own mistakes was all I ever wanted." id="92" />
+    </edges>
+  </graph>
+</gexf>
