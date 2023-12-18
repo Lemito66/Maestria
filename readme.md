@@ -25,3 +25,8 @@ pip install -r requirements.txt
 python -m pip freeze > requirements.txt
 ```
 
+- Si no se activa venv en tu terminal. Utiliza un cmd y escribe el siguiente comando
+
+```
+.\<nombre_carpeta>\Scripts\activate
+```
